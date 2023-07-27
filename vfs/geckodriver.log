@@ -1,0 +1,99 @@
+1652558446770	geckodriver	INFO	Listening on 127.0.0.1:60187
+1652558446817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56787" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLSs2Vj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652558454136	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLSs2Vj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56787/devtools/browser/115de6db-a358-4d9b-b664-e8bbaff3dddd
+1652558464789	Marionette	INFO	Listening on port 39989
+Read port: 39989
+1652558465051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://visa.vfsglobal.com"
+1652558480777	Marionette	INFO	Stopped listening on port 39989
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1652558610972	geckodriver	INFO	Listening on 127.0.0.1:57761
+1652558610975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesv71Bm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652558613136	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesv71Bm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39385/devtools/browser/d1e9dbff-0be1-4526-a4c5-6cdb1e99853f
+1652558616302	Marionette	INFO	Listening on port 33355
+Read port: 33355
+1652558616401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://visa.vfsglobal.com"
+1652558648633	Marionette	INFO	Stopped listening on port 33355
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1652559011557	geckodriver	INFO	Listening on 127.0.0.1:55715
+1652559011564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRwqgBM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652559013841	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRwqgBM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42813/devtools/browser/ea8d8abf-a67e-4848-babf-d2abcf264907
+1652559017442	Marionette	INFO	Listening on port 34175
+Read port: 34175
+1652559017496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://visa.vfsglobal.com"
+1652559036271	Marionette	INFO	Stopped listening on port 34175
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652564546880	geckodriver	INFO	Listening on 127.0.0.1:46925
+1652564547387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-infobars" "--disable-extensions" "--disable-popup-blocking" "--remote-debugging-port" "38097" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDGqLhf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652564550272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDGqLhf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38097/devtools/browser/8b1fec9f-e1e0-4ab6-ab7b-354f930ab480
+1652564553819	Marionette	INFO	Listening on port 36949
+Read port: 36949
+1652564553927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/g51hIJTSSbKmE1DfHFqbr9lDc41juRM9f8n7HMlSD3A.js line 1 > eval line 2677 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652564561405	Marionette	INFO	Stopped listening on port 36949
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1652564602002	geckodriver	INFO	Listening on 127.0.0.1:58123
+1652564602005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-infobars" "--disable-extensions" "--disable-popup-blocking" "--remote-debugging-port" "42371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMRKjtR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1652564604125	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMRKjtR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42371/devtools/browser/0b8d5657-d00e-4a58-806f-1fe0e0d5c116
+1652564607365	Marionette	INFO	Listening on port 37009
+Read port: 37009
+1652564607425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/g51hIJTSSbKmE1DfHFqbr9lDc41juRM9f8n7HMlSD3A.js line 1 > eval line 3669 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1652564618613	Marionette	INFO	Stopped listening on port 37009
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
